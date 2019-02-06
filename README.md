@@ -16,5 +16,4 @@
 
 Í möppunni *mylla* eru allar skrár sem tengjast leiknum sjálfum.
 
-##### Höfundar
-Verkefnið er unnið af Kormáki Atla Unnþórssyni & Daníel Þór Gestssyni
+##### Verkefnið er unnið af Kormáki Atla Unnþórssyni & Daníel Þór Gestssyni
