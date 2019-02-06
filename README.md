@@ -1,4 +1,5 @@
-# Miðannarverkefni í FORR3NÞ05DU - Mylla
+# Hefðbundin Mylla
+## Miðannarverkefni í FORR3NÞ05DU
 
 
 ### createPlayroom. py
