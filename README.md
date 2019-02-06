@@ -2,6 +2,8 @@
 #### Miðannarverkefni í FORR3NÞ05DU
 
 
+
+
 ### createPlayroom. py
 
 Þessari skrá er halið niður á tölvu notanda, þeim sem ætlar að hýsa leikinn, og hún svo keyrð í IDLE eða PyCharm. Þá poppar upp gluggi, og þá getur annar notandi tengst. IP tölunni í skránni er breytt í IP töluna á tölvunni sem hýsandinn er í.
